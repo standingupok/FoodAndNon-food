@@ -3,3 +3,4 @@
  - The project purpose is to compare the differnces between using augmentation and without using agumentation.
  - We can see, with aumentation, it takes about 5 minutes to finish 1 batch even though I have freeze the parameters
  - On the other hand, it spend 00.605822 seconds completing one batch when augmentation has not been used.
+ - Link dataset: https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset
